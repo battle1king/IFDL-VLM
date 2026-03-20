@@ -246,14 +246,5 @@ If you plan to make this repository public, add a `LICENSE` file (e.g., Apache-2
 ## 📮 Contact
 For questions and collaboration requests:
 - Open a GitHub issue
-- Or contact the maintainers via email (to be added)
+- Or contact the maintainers via email: shaofengGuo@mail.hfut.edu.cn
 
----
-
-### Important Repository Policy
-Excluded from this repository:
-- datasets
-- model weights/checkpoints
-- logs and cached artifacts
-
-Please avoid committing large binaries or private data.
