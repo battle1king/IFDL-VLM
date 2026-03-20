@@ -1,6 +1,6 @@
-# IFDL-VLM
+# IFDL-VLM - CVPR 2026 Findings
 
-> Official codebase for **IFDL-VLM** (two-stage training & inference pipeline).
+> Official codebase for **IFDL-VLM** (two-stage image forgery detection and localization training & inference pipeline).
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](#installation)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4-red)](#installation)
