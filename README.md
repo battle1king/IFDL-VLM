@@ -219,11 +219,10 @@ Contributions are welcome!
 If you find this project helpful, please cite:
 
 ```bibtex
-@article{ifdl_vlm_2026,
-  title   = {IFDL-VLM: [Paper Title]},
-  author  = {[Author List]},
-  journal = {CVPR 2026 (Findings)},
-  note    = {arXiv:2603.12930},
+@article{guo2026rethinking,
+  title   = {Rethinking VLMs for Image Forgery Detection and Localization},
+  author  = {Guo, Shaofeng and Cui, Jiequan and Hong, Richang},
+  journal = {arXiv preprint arXiv:2603.12930},
   year    = {2026}
 }
 ```
